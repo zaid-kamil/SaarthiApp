@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Saarthi</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="From">From : </string>
+    <string name="To">To : </string>
+    <string name="Dz"> DZ</string>
+    <string name="Seats"> Seats Available</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="riders">13 person</string>
+    <string name="verification_profile">verify profile</string>
+    <string name="dummy_msg">Chinmaya want to carpool with you for Ali\'s trip to High Town</string>
+</resources>

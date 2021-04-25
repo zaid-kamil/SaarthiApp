@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "787752231975",
+    "firebase_url": "https://sarthi-2845f-default-rtdb.firebaseio.com",
+    "project_id": "sarthi-2845f",
+    "storage_bucket": "sarthi-2845f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787752231975:android:6bbd1598d56d07466b9a02",
+        "android_client_info": {
+          "package_name": "com.example.sarthi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787752231975-a0h34nlh4i6f35o6o1f4l6f4llebml51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMmXhi2GmllEiGF2txGZ8EJ_xQ433Zn2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787752231975-a0h34nlh4i6f35o6o1f4l6f4llebml51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
